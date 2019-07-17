@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Simulation extends expectedDamage {
 
-    final int pauseInterval = 03;
+    final int pauseInterval = 02;
     final String SimulationFile = "e:\\r2q\\Simulation.txt";
     final String ReputationChanges_file = "e:\\r2q\\ReputationChanges.txt";
     final String RiskScoreMatrixExcelFile = "e:\\r2q\\RiskScoreChanges.csv";
